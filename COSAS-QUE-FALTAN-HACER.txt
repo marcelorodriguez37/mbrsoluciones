@@ -1,0 +1,4 @@
+-icono de la pestaña de la página
+- ver porque no funciona lo del mail . 
+- que aparesca "www.mbrsoluciones.com" en vez de "mbrsoluciones.com".
+-
