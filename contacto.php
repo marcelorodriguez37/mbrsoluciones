@@ -1,8 +1,8 @@
 <?php 
-$nombre=$_POST['nombre'];
-$tel=$_POST['telefono'];
-$email=$_POST['mail'];
-$mensaje=$_POST['mensaje'];
+$nombre=$_POST['name'];
+$tel=$_POST['phone'];
+$email=$_POST['email'];
+$mensaje=$_POST['message'];
 
 $to='info@mbrsoluciones.com';
 
